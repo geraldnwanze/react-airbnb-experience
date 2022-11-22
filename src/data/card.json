@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "img": "/katie-zaferes.png",
+        "rating": 5.0,
+        "reviewCount": 6,
+        "country": "USA",
+        "location": "online",
+        "title": "Life lessons from katie zaferes",
+        "price": 136,
+        "openSpots": 0
+    },
+    {
+        "id": 2,
+        "img": "/katie-zaferes.png",
+        "rating": 5.0,
+        "reviewCount": 6,
+        "country": "USA",
+        "location": "online",
+        "title": "Life lessons from katie zaferes",
+        "price": 136,
+        "openSpots": 10
+    },
+    {
+        "id": 3,
+        "img": "/katie-zaferes.png",
+        "rating": 5.0,
+        "reviewCount": 6,
+        "country": "USA",
+        "location": "online",
+        "title": "Life lessons from katie zaferes",
+        "price": 136,
+        "openSpots": 5
+    },
+    {
+        "id": 4,
+        "img": "/katie-zaferes.png",
+        "rating": 5.0,
+        "reviewCount": 6,
+        "country": "USA",
+        "location": "online",
+        "title": "Life lessons from katie zaferes",
+        "price": 136,
+        "openSpots": 2
+    }
+]
